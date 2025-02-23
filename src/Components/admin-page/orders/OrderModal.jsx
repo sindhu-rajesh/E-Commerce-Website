@@ -1,7 +1,7 @@
 import  { Component } from 'react'
 import { connect } from 'react-redux';
 import { NavLink } from 'react-router-dom';
-import ProductImg from '../../shared/ProductImg';
+import ProductImg from '../../shared/ProductImg';  ;
 import Modal from 'react-bootstrap/Modal';
 import { updateOrder } from './../../../app/firebase';
 
